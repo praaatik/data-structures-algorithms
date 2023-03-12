@@ -4,4 +4,4 @@ chapters:
   - file: markdown
   - file: notebooks
   - file: markdown-notebooks
-  - file: data-structures-algorithms/data_structures/linked_lists/linked_lists.ipynb
+  - file: data_structures/linked_lists/linked_lists.ipynb
